@@ -1,0 +1,15 @@
+messages:
+  onenable: "У Евгения Лунева из Саратова своя технология. Березу выбирает самую толстую, отверстие делает снизу."
+  started: "\u00A76Началась добыча сока."
+  not-ready: "\u00A76Сок ещё не готов! Осталось {time} сек."
+
+juice-preparation: 30
+duration: 180
+removeWither: true
+hungerImmunity: true
+poisonImmunity: true
+
+item-name: "&fБерёзовый Сок"
+lore:
+  - "&9Иммунитет к Голоду и Отравлению (3:00)"
+  - "&9Убирает Иссушение"
